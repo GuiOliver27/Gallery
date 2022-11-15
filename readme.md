@@ -7,7 +7,7 @@ HTML5 e SASS
 
 ## Site
 
-Acesse o site [aqui](https://shields.io/)
+Acesse o site [aqui](https://dainty-gallery.netlify.app/)
 
 ## Screenshot
 
